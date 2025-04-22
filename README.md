@@ -2,10 +2,10 @@ Rain data analysis -
 A Python-based project to help manage and analysis the rain data with the help of CSV-based logs.
 
 Team Members  
-Mohd. Shan  - B.Tech Student (Developer)
-Mohd. Kaif  - B.Tech Student (Leads presentation)
-Karan pal  - B.Tech Student (Leads report)
-Ojas - B.Tech Student (Leads projects)
+Mohd. Shan  - B.Tech Student (Developer)  
+Mohd. Kaif  - B.Tech Student (Leads presentation)  
+Karan pal  - B.Tech Student (Leads report)  
+Ojas - B.Tech Student (Leads projects)  
 
 Mentors - 
 Ms. Ankita - Faculty Guide
