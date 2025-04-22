@@ -1,4 +1,4 @@
-Rain data analysis - 
+Rain data analysis -   
 A Python-based project to help manage and analysis the rain data with the help of CSV-based logs.
 
 Team Members  
