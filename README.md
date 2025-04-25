@@ -4,8 +4,8 @@ A Python-based project to help manage and analysis the rain data with the help o
 Team Members  
 Mohd. Shan  - B.Tech Student (Developer)  
 Mohd. Kaif  - B.Tech Student (Leads presentation)  
-Karan pal  - B.Tech Student (Leads report)  
-Ojas - B.Tech Student (Leads projects)  
+Ojas  - B.Tech Student (Leads report)  
+Karan pal - B.Tech Student (Leads projects)  
 
 Mentors -   
 Ms. Ankita - Faculty Guide  
